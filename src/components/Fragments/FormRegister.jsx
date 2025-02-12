@@ -1,6 +1,6 @@
 import Botton from "../Elements/Button";
 import InputForm from "../Elements/Input";
-import { Fragment, useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 
 const FormRegister = () => {
   const fullname = useRef(null);
